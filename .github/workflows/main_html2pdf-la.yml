@@ -41,4 +41,4 @@ jobs:
           app-name: 'html2pdf-la'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64B053FC54FA4018AC70502F2C2A19EB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B7981B8C19E84BA399AF288956D99C66 }}
